@@ -1,0 +1,28 @@
+name: mining
+favicon: null
+layout_spectrum: 0.09164970042183995
+typography_spectrum: 0.8070006377529353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.18263605004176497
+  lightness: 0.46770490100607276
+  saturation: 0.28083632537163794
+  rhythmicContrast: 0.6045873768161982
+purpose: []
